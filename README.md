@@ -1,7 +1,7 @@
 # EFI for Hackintosh on Lenovo Ideapad 3 15iml05
 
 [![macOS](https://img.shields.io/badge/macOS-26.4-brightgreen?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.6-blue?style=for-the-badge&logo=opencore&logoColor=white)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.7-blue?style=for-the-badge&logo=opencore&logoColor=white)](https://github.com/acidanthera/OpenCorePkg)
 [![Download](https://img.shields.io/badge/Download-Latest%20EFI-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laidix/Lenovo-Ideapad-3-15iml05-EFI/releases/latest)
 
 ## Fully working EFI.
